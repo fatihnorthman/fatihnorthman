@@ -1,7 +1,4 @@
 <!-- 🌄 Custom Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fatihnorthman/fatihnorthman/main/assets/banner.png" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi there 👋, I'm Fatih</h1>
 <h3 align="center">💻 Android Developer in Progress • Kotlin Learner • Tech Explorer 🚀</h3>
@@ -60,7 +57,9 @@
 
 ---
 
-<!-- 🌀 SVG Wavy Footer -->
-<p>
-  <img src="https://raw.githubusercontent.com/fatihnorthman/fatihnorthman/main/assets/outro.gif" alt="outro" width="100%">
+
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/fnorthman/fnorthman/main/assets/outro.gif" alt="outro" width="25%">
+
 </p>
