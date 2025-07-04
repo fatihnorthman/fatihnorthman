@@ -62,5 +62,5 @@
 
 <!-- 🌀 SVG Wavy Footer -->
 <p>
-  <img src="https://raw.githubusercontent.com/fatihnorthman/fatihnorthman/main/assets/outro" alt="outro" width="100%">
+  <img src="https://raw.githubusercontent.com/fatihnorthman/fatihnorthman/main/assets/outro.gif" alt="outro" width="100%">
 </p>
