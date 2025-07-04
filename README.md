@@ -18,12 +18,9 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihnorthman&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihnorthman&layout=compact&theme=tokyonight)
 
----
+
 
 ### 🚀 Featured Projects
 - For training:
