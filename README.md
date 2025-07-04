@@ -53,10 +53,10 @@ I'm a self-taught Android developer who loves creating clean, user-focused mobil
 
 ---
 
-### 🧠 Fun Fact
+### 🧠
 
-> “I didn't choose Kotlin — Kotlin chose me.” 😄  
-> But seriously: writing Android apps feels like solving elegant little puzzles. And I love it.
+> The quieter you become, the more you are able to hear.
+
 
 ---
 
