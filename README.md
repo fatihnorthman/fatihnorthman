@@ -26,7 +26,7 @@
 ---
 
 ### 🚀 Featured Projects
-
+- For training:
 - 🔊 [VoiceNote](https://github.com/fatihnorthman/VoiceNote) – A modern voice note app built with Kotlin
 - ✅ [ToDoApp](https://github.com/fatihnorthman/ToDoApp) – A simple and clean task manager
 
