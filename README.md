@@ -60,6 +60,6 @@
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/fnorthman/fnorthman/main/assets/outro.gif" alt="outro" width="25%">
+  <img src="https://raw.githubusercontent.com/fatihnorthman/fatihnorthman/main/assets/outro.gif" alt="outro" width="25%">
 
 </p>
