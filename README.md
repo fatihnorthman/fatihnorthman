@@ -1,6 +1,6 @@
 <!-- 🌄 Custom Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fatihnorthman/fatihnorthman/main/assets/android-banner.png" alt="Android & Kotlin Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/fatihnorthman/fatihnorthman/main/assets/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Fatih</h1>
@@ -62,5 +62,5 @@
 
 <!-- 🌀 SVG Wavy Footer -->
 <p>
-  <img src="https://raw.githubusercontent.com/fatihnorthman/fatihnorthman/main/assets/wave.svg" alt="wave" width="100%">
+  <img src="https://raw.githubusercontent.com/fatihnorthman/fatihnorthman/main/assets/outro" alt="outro" width="100%">
 </p>
