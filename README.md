@@ -22,11 +22,24 @@
 ### 👨‍💻 What I'm Working On
 
 <ul>
-  <li>🔬 Learning: <code>Room DB</code>, <code>ViewModel</code>, <code>LiveData</code>, <code>Retrofit</code>, <code>Coroutines</code>, and <code>Jetpack Compose</code></li>
+  <li>🔬 Learning:
+    <br/>
+    • <code>Room DB</code> – A modern SQLite abstraction for local data persistence in Android<br/>
+    • <code>ViewModel</code> – Manages UI-related data in a lifecycle-aware way<br/>
+    • <code>LiveData</code> – Observes and reacts to data changes while respecting the lifecycle<br/>
+    • <code>Retrofit</code> – A type-safe HTTP client for seamless API communication<br/>
+    • <code>Coroutines</code> – Simplifies asynchronous programming with structured concurrency<br/>
+    • <code>Jetpack Compose</code> – Android’s modern toolkit for building native UI declaratively<br/>
+    • <code>Hilt</code> – Dependency injection for easier and testable Android development<br/>
+    • <code>Navigation Component</code> – Handles in-app navigation and back stack<br/>
+    • <code>DataStore</code> – Modern key-value storage replacing SharedPreferences<br/>
+    • <code>Flow</code> – Cold async data streams powered by coroutines<br/>
+    • <code>Paging 3</code> – Efficient data pagination in RecyclerView<br/>
+    • <code>WorkManager</code> – Schedules reliable background tasks
+  </li>
   <li>📱 Goal: Writing modular, testable & scalable Android applications</li>
   <li>🎯 Dream: Becoming a full-stack mobile developer who ships useful, real-world apps</li>
 </ul>
-
 ---
 
 ### 🛠️ Languages & Tools
