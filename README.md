@@ -81,7 +81,7 @@
   <tr>
     <td bgcolor="#f5f7fa" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#666; font-style: italic; border-left: 5px solid #0e75b6;">
       <h3>🧠 Thought of the Day</h3>
-      <p>“The quieter you become, the more you are able to hear.”<br/>— <strong>Rumi</strong></p>
+      <p>“The quieter you become, the more you are able to hear.”<br/>
     </td>
   </tr>
 
