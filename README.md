@@ -1,4 +1,3 @@
-<!-- 🌄 Custom Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
@@ -27,24 +26,18 @@
   <tr>
     <td bgcolor="#f5f7fa" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444;">
       <h3>👨‍💻 What I'm Working On</h3>
+      <p>My current focus is on mastering the following technologies to build robust and scalable Android applications:</p>
       <ul>
-        <li>🔬 <strong>Learning:</strong>
-          <br/>
-          • 🗄️ <code>Room DB</code> – A modern SQLite abstraction for local data persistence in Android<br/>
-          • 🧠 <code>ViewModel</code> – Manages UI-related data in a lifecycle-aware way<br/>
-          • 👀 <code>LiveData</code> – Observes and reacts to data changes while respecting the lifecycle<br/>
-          • 🌐 <code>Retrofit</code> – A type-safe HTTP client for seamless API communication<br/>
-          • 🌀 <code>Coroutines</code> – Simplifies asynchronous programming with structured concurrency<br/>
-          • 🎨 <code>Jetpack Compose</code> – Android’s modern toolkit for building native UI declaratively<br/>
-          • 🧩 <code>Hilt</code> – Dependency injection for easier and testable Android development<br/>
-          • 🧭 <code>Navigation Component</code> – Handles in-app navigation and back stack<br/>
-          • 🗃️ <code>DataStore</code> – Modern key-value storage replacing SharedPreferences<br/>
-          • 🔁 <code>Flow</code> – Cold async data streams powered by coroutines<br/>
-          • 📄 <code>Paging 3</code> – Efficient data pagination in RecyclerView<br/>
-          • ⏱️ <code>WorkManager</code> – Schedules reliable background tasks
-        </li>
-        <li>📱 <strong>Goal:</strong> Writing modular, testable & scalable Android applications</li>
-        <li>🎯 <strong>Dream:</strong> Becoming a full-stack mobile developer who ships useful, real-world apps</li>
+        <li>🗄️ <strong>Room DB:</strong> Modern SQLite abstraction for local data persistence</li>
+        <li>🧠 <strong>ViewModel & LiveData:</strong> Manages UI-related data in a lifecycle-aware way</li>
+        <li>🌐 <strong>Retrofit:</strong> A type-safe HTTP client for seamless API communication</li>
+        <li>🌀 <strong>Coroutines & Flow:</strong> Simplifies asynchronous programming with structured concurrency</li>
+        <li>🎨 <strong>Jetpack Compose:</strong> Android’s modern toolkit for building native UI declaratively</li>
+        <li>🧩 <strong>Hilt:</strong> Dependency injection for easier and testable Android development</li>
+        <li>🧭 <strong>Navigation Component:</strong> Handles in-app navigation and back stack</li>
+        <li>🗃️ <strong>DataStore:</strong> Modern key-value storage replacing SharedPreferences</li>
+        <li>📄 <strong>Paging 3:</strong> Efficient data pagination in RecyclerView</li>
+        <li>⏱️ <strong>WorkManager:</strong> Schedules reliable background tasks</li>
       </ul>
     </td>
   </tr>
@@ -59,6 +52,29 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td bgcolor="#f5f7fa" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444;">
+      <h3 align="center">📈 GitHub Activity & Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=fatihnorthman&show_icons=true&hide_title=true&theme=buefy&count_private=true" alt="Fatih's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihnorthman&layout=compact&hide_title=true&langs_count=4&theme=buefy" alt="Top Languages" />
+        <br/><br/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatihnorthman&theme=buefy" alt="Profile Details" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td bgcolor="#f5f7fa" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444;">
+      <h3 align="center">🔥 Streaks & Contributions</h3>
+      <p align="center">
+        <img src="https://streak-stats.demolab.com/?user=fatihnorthman&theme=buefy&hide_title=true&border_radius=12" alt="GitHub Streak" />
+        <br/><br/>
+        <img src="https://github-profile-trophy.vercel.app/?username=fatihnorthman&theme=buefy&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
       </p>
     </td>
   </tr>
