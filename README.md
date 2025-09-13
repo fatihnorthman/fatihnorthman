@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋, I'm Fatih</h1>
 <h3 align="center" style="font-weight:normal; color:#555;">
-💻 Android Developer in Progress • ☁️ Cloud Engineering Learner • Tech Explorer 🚀
+☁️ Cloud Engineering Student • 🚀 AWS Journey in Progress • 🎯 Future Solutions Architect
 </h3>
 
 <p align="center">
@@ -18,63 +18,95 @@
 <tr>
 <td bgcolor="#f5f7fa" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444;">
 <h3>🧩 About Me</h3>
-🌟 Self-taught <strong>Android developer</strong> passionate about clean UI & smooth UX.<br/>
-📚 Exploring Android deeply — from UI/UX principles to MVVM architecture.<br/>
-⚙️ Building small apps, experimenting with new tools, and improving Kotlin fluency.<br/><br/>
-☁️ Meanwhile, learning <strong>Cloud Engineering</strong> to expand beyond mobile.
+☁️ Passionate <strong>Cloud Engineering</strong> student on a journey to master AWS<br/>
+🎯 Goal: Becoming a skilled <strong>AWS Solutions Architect</strong><br/>
+📚 Daily learner documenting my progress from basics to advanced cloud concepts<br/>
+🚀 Building hands-on projects with real-world cloud infrastructure<br/><br/>
+💡 Background in software & networking, now focusing 100% on cloud technologies
 </td>
 </tr>
 
 <tr>
-<td bgcolor="#f5f7fa" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444;">
-<h3>☁️ Cloud Engineering Journey</h3>
-🔹 With a background in software & networking, I'm diving into Cloud.<br/>
-🔹 Focus areas right now:
-<ul>
-<li><strong>Linux & Terminal:</strong> system management & automation</li>
-<li><strong>Networking:</strong> core protocols & security</li>
-<li><strong>AWS / Azure / GCP:</strong> cloud fundamentals</li>
-<li><strong>Automation Tools:</strong> Terraform & Ansible</li>
-<li><strong>CI/CD:</strong> pipelines & automation</li>
-<li><strong>Docker & Containers:</strong> containerization & microservices</li>
-</ul>
-🚀 Still a beginner, sharing my journey on GitHub & LinkedIn.
+<td bgcolor="#e8f4fd" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444; border-left: 5px solid #0e75b6;">
+<h3>☁️ Current Learning Path</h3>
+<strong>🎯 Phase 1: Infrastructure Foundations</strong><br/>
+🐧 <strong>Linux Administration:</strong> File systems, process management, user/group management<br/>
+🪟 <strong>Windows Server:</strong> IIS, RDP, service management<br/>
+🌐 <strong>Networking:</strong> TCP/IP, subnetting, VLAN, VPN, routing, DNS<br/>
+🔒 <strong>Security:</strong> Firewall, SSH, SELinux, system hardening<br/><br/>
+
+<strong>🎯 Phase 2: AWS Cloud Services</strong><br/>
+⚡ <strong>Core Services:</strong> EC2, S3, VPC, IAM, RDS<br/>
+📊 <strong>Monitoring:</strong> CloudWatch, logging, alerting<br/>
+🔐 <strong>Security:</strong> Security Groups, NACLs, IAM policies<br/>
+🏗️ <strong>Architecture:</strong> Multi-tier applications, best practices
 </td>
 </tr>
 
 <tr>
-<td bgcolor="#f5f7fa" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444;">
-<h3>👨‍💻 Android Stack I'm Working On</h3>
-<ul>
-<li>🗄️ <strong>Room DB</strong></li>
-<li>🧠 <strong>ViewModel & LiveData</strong></li>
-<li>🌐 <strong>Retrofit</strong></li>
-<li>🌀 <strong>Coroutines & Flow</strong></li>
-<li>🎨 <strong>Jetpack Compose</strong></li>
-<li>🧩 <strong>Hilt (DI)</strong></li>
-<li>🧭 <strong>Navigation Component</strong></li>
-<li>🗃️ <strong>DataStore</strong></li>
-<li>📄 <strong>Paging 3</strong></li>
-<li>⏱️ <strong>WorkManager</strong></li>
-</ul>
+<td bgcolor="#fff3cd" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444; border-left: 5px solid #ffc107;">
+<h3>📈 Learning Progress Tracker</h3>
+<strong>🐧 Linux Fundamentals:</strong><br/>
+✅ File & directory management<br/>
+✅ File permissions & ownership<br/>
+✅ Process & service management<br/>
+✅ Package management<br/>
+✅ User & group management<br/>
+⏳ File systems & storage management<br/>
+⏳ Disk & LVM management<br/><br/>
+
+<strong>☁️ AWS Journey:</strong><br/>
+⏳ AWS Account & Console basics<br/>
+⏳ IAM fundamentals<br/>
+⏳ EC2 instances<br/>
+⏳ S3 storage<br/>
+⏳ VPC networking
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#d4edda" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444; border-left: 5px solid #28a745;">
+<h3>🎯 Certification Goals</h3>
+<strong>📋 Infrastructure Foundations:</strong><br/>
+🐧 <strong>CompTIA Linux+</strong> - Linux administration fundamentals<br/><br/>
+
+<strong>📋 AWS Cloud Certifications:</strong><br/>
+🥉 <strong>AWS Cloud Practitioner</strong> - Foundation level<br/>
+🥈 <strong>AWS Solutions Architect Associate</strong> - Target certification<br/>
+🥈 <strong>AWS SysOps Administrator Associate</strong> - Operations focus<br/>
+🥈 <strong>AWS DevOps Engineer Associate</strong> - Automation & CI/CD<br/>
+🥇 <strong>AWS Solutions Architect Professional</strong> - Advanced level<br/>
+🏆 <strong>AWS Specialty Certifications</strong> - Specialized areas
 </td>
 </tr>
 
 <tr>
 <td bgcolor="#f5f7fa" align="center" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-<h3>🛠️ Languages & Tools</h3>
+<h3>🛠️ Technologies & Tools</h3>
 <p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<br/><br/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#f8d7da" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444; border-left: 5px solid #dc3545;">
+<h3>🏗️ Upcoming Projects</h3>
+<strong>📋 Hands-on Labs & Projects:</strong><br/>
+🔨 <strong>Multi-tier Web App:</strong> EC2 + RDS + S3 + Load Balancer<br/>
+🔨 <strong>Infrastructure as Code:</strong> Terraform AWS deployment<br/>
+🔨 <strong>CI/CD Pipeline:</strong> GitHub Actions + AWS CodePipeline<br/>
+🔨 <strong>Container Orchestration:</strong> Docker + ECS/EKS<br/>
+🔨 <strong>Monitoring Solution:</strong> CloudWatch + custom dashboards<br/>
+🔨 <strong>Serverless Architecture:</strong> Lambda + API Gateway + DynamoDB
 </td>
 </tr>
 
@@ -107,10 +139,12 @@
 </td>
 </tr>
 
+
+
 <tr>
 <td bgcolor="#f5f7fa" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#666; font-style: italic; border-left: 5px solid #0e75b6;">
-<h3>🧠 Thought of the Day</h3>
-“ The quieter you become, the more you are able to hear. ”
+<h3>💡 Daily Motivation</h3>
+"Success is not about being the smartest person in the room, it's about being the most persistent one."
 </td>
 </tr>
 
