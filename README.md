@@ -110,14 +110,7 @@
 </td>
 </tr>
 
-<tr>
-<td bgcolor="#f5f7fa" align="center" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-<h3>📈 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=fatihnorthman&show_icons=true&hide_title=true&theme=buefy&count_private=true" alt="stats"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihnorthman&layout=compact&hide_title=true&langs_count=4&theme=buefy" alt="langs"/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatihnorthman&theme=buefy" alt="profile"/>
-</td>
-</tr>
+
 
 <tr>
 <td bgcolor="#f5f7fa" align="center" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
