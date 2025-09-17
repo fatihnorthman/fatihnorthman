@@ -22,7 +22,6 @@
 🎯 Goal: Becoming a skilled <strong>AWS Solutions Architect</strong><br/>
 📚 Daily learner documenting my progress from basics to advanced cloud concepts<br/>
 🚀 Building hands-on projects with real-world cloud infrastructure<br/><br/>
-💡 Background in software & networking, now focusing 100% on cloud technologies
 </td>
 </tr>
 
