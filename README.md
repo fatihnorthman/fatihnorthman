@@ -1,149 +1,118 @@
+<!-- Banner Area -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D2b2d42,8d99ae,ef233c%26height%3D220%26section%3Dheader%26text%3DBuilding%2520Worlds...%26fontSize%3D70%26fontColor%3Dffffff%26animation%3DfadeIn%26fontAlignY%3D35" width="100%"/>
+</div>
+
+<!-- Intro Section -->
+
+<h1 align="center">🎮 Player 1 Ready: Hi, I'm Fatih!</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DPress%2BStart%2B2P%26color%3DF7F7F7%26size%3D18%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DUnity%2BDeveloper%3BC%2523%2BEnthusiast%3BPixel%2BArt%2BLover%3BTurning%2BCoffee%2Binto%2BCode%3BLeveling%2BUp%2BEvery%2BDay" alt="Typing SVG" />
+</a>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Fatih</h1>
-<h3 align="center" style="font-weight:normal; color:#555;">
-☁️ Cloud Engineering Student • 🚀 AWS Journey in Progress • 🎯 Future Solutions Architect
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatihnorthman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<table align="center" width="85%" style="border-collapse: separate; border-spacing: 0 15px;">
-
-<tr>
-<td bgcolor="#f5f7fa" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444;">
-<h3>🧩 About Me</h3>
-☁️ Passionate <strong>Cloud Engineering</strong> student on a journey to master AWS<br/>
-🎯 Goal: Becoming a skilled <strong>AWS Solutions Architect</strong><br/>
-📚 Daily learner documenting my progress from basics to advanced cloud concepts<br/>
-🚀 Building hands-on projects with real-world cloud infrastructure<br/><br/>
-</td>
-</tr>
-
-<tr>
-<td bgcolor="#e8f4fd" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444; border-left: 5px solid #0e75b6;">
-<h3>☁️ Current Learning Path</h3>
-<strong>🎯 Phase 1: Infrastructure Foundations</strong><br/>
-🐧 <strong>Linux Administration:</strong> File systems, process management, user/group management<br/>
-🪟 <strong>Windows Server:</strong> IIS, RDP, service management<br/>
-🌐 <strong>Networking:</strong> TCP/IP, subnetting, VLAN, VPN, routing, DNS<br/>
-🔒 <strong>Security:</strong> Firewall, SSH, SELinux, system hardening<br/><br/>
-
-<strong>🎯 Phase 2: AWS Cloud Services</strong><br/>
-⚡ <strong>Core Services:</strong> EC2, S3, VPC, IAM, RDS<br/>
-📊 <strong>Monitoring:</strong> CloudWatch, logging, alerting<br/>
-🔐 <strong>Security:</strong> Security Groups, NACLs, IAM policies<br/>
-🏗️ <strong>Architecture:</strong> Multi-tier applications, best practices
-</td>
-</tr>
-
-<tr>
-<td bgcolor="#fff3cd" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444; border-left: 5px solid #ffc107;">
-<h3>📈 Learning Progress Tracker</h3>
-<strong>🐧 Linux Fundamentals:</strong><br/>
-✅ File & directory management<br/>
-✅ File permissions & ownership<br/>
-✅ Process & service management<br/>
-✅ Package management<br/>
-✅ User & group management<br/>
-⏳ File systems & storage management<br/>
-⏳ Disk & LVM management<br/><br/>
-
-<strong>☁️ AWS Journey:</strong><br/>
-⏳ AWS Account & Console basics<br/>
-⏳ IAM fundamentals<br/>
-⏳ EC2 instances<br/>
-⏳ S3 storage<br/>
-⏳ VPC networking
-</td>
-</tr>
-
-<tr>
-<td bgcolor="#d4edda" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444; border-left: 5px solid #28a745;">
-<h3>🎯 Certification Goals</h3>
-<strong>📋 Infrastructure Foundations:</strong><br/>
-🐧 <strong>CompTIA Linux+</strong> - Linux administration fundamentals<br/><br/>
-
-<strong>📋 AWS Cloud Certifications:</strong><br/>
-🥉 <strong>AWS Cloud Practitioner</strong> - Foundation level<br/>
-🥈 <strong>AWS Solutions Architect Associate</strong> - Target certification<br/>
-🥈 <strong>AWS SysOps Administrator Associate</strong> - Operations focus<br/>
-🥈 <strong>AWS DevOps Engineer Associate</strong> - Automation & CI/CD<br/>
-🥇 <strong>AWS Solutions Architect Professional</strong> - Advanced level<br/>
-🏆 <strong>AWS Specialty Certifications</strong> - Specialized areas
-</td>
-</tr>
-
-<tr>
-<td bgcolor="#f5f7fa" align="center" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-<h3>🛠️ Technologies & Tools</h3>
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-</td>
-</tr>
-
-<tr>
-<td bgcolor="#f8d7da" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#444; border-left: 5px solid #dc3545;">
-<h3>🏗️ Upcoming Projects</h3>
-<strong>📋 Hands-on Labs & Projects:</strong><br/>
-🔨 <strong>Multi-tier Web App:</strong> EC2 + RDS + S3 + Load Balancer<br/>
-🔨 <strong>Infrastructure as Code:</strong> Terraform AWS deployment<br/>
-🔨 <strong>CI/CD Pipeline:</strong> GitHub Actions + AWS CodePipeline<br/>
-🔨 <strong>Container Orchestration:</strong> Docker + ECS/EKS<br/>
-🔨 <strong>Monitoring Solution:</strong> CloudWatch + custom dashboards<br/>
-🔨 <strong>Serverless Architecture:</strong> Lambda + API Gateway + DynamoDB
-</td>
-</tr>
-
-
-
-<tr>
-<td bgcolor="#f5f7fa" align="center" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-<h3>🔥 Streaks & Trophies</h3>
-<img src="https://streak-stats.demolab.com/?user=fatihnorthman&theme=buefy&hide_title=true&border_radius=12" alt="streak"/><br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=fatihnorthman&theme=buefy&no-bg=true&no-frame=true&row=1&column=4" alt="trophies"/>
-</td>
-</tr>
-
-<tr>
-<td bgcolor="#f5f7fa" align="center" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-<h3>🌐 Connect With Me</h3>
-<a href="https://www.linkedin.com/in/fatihsahan/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+<!-- Social Badges -->
+<a href="https://www.google.com/search?q=https://linkedin.com/in/fatihsahan" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/fatih.northman" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
-</td>
-</tr>
+<a href="mailto:your-email@example.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="email"/>
+</a>
+</div>
 
+<!-- Main Content Grid -->
 
-
+<table align="center" width="95%" style="border-collapse: separate; border-spacing: 0;">
 <tr>
-<td bgcolor="#f5f7fa" style="border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); color:#666; font-style: italic; border-left: 5px solid #0e75b6;">
-<h3>💡 Daily Motivation</h3>
-"Success is not about being the smartest person in the room, it's about being the most persistent one."
+<!-- Left Column: About & Stats -->
+<td width="60%" valign="top">
+
+🕹️ Character Stats
+
+Transitioning from Cloud Architecture to Game Architecture.
+
+I'm a passionate developer shifting gears to the world of Game Development. While I have a background in Cloud Engineering, my true quest lies in creating immersive experiences and interactive worlds using Unity.
+
+🔭 Currently Working on: A 2D Platformer & Learning 3D Physics
+
+🌱 Learning: Shader Graph, Cinemachine, and Advanced C# Patterns
+
+🎯 Goal: Publish my first Indie Game on Steam/Itch.io
+
+⚡ Fun Fact: I treat bugs like side quests; annoying but rewarding to fix.
+
+🏆 Achievements
+
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dfatihnorthman%26theme%3Ddarkhub%26no-bg%3Dtrue%26margin-w%3D15%26margin-h%3D15%26column%3D3" width="100%"/>
+
+</td>
+
+<!-- Right Column: Tech Stack -->
+
+<td width="5%" valign="top"></td> <!-- Spacer -->
+<td width="35%" valign="top">
+
+🛠️ Equipment (Tech Stack)
+
+<div align="center">
+
+Engines & Languages
+
+
+
+
+
+<img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dflat-square%26logo%3Dc-sharp%26logoColor%3Dwhite" />
+
+Tools & IDEs
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Visual_Studio-5C2D91%3Fstyle%3Dflat-square%26logo%3Dvisual%2520studio%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Rider-000000%3Fstyle%3Dflat-square%26logo%3Djetbrains%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
+
+Design & Art (Learning)
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Blender-E87D0D%3Fstyle%3Dflat-square%26logo%3Dblender%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Aseprite-7D929E%3Fstyle%3Dflat-square%26logo%3Daseprite%26logoColor%3Dwhite" />
+
+</div>
+
 </td>
 </tr>
-
-<tr>
-<td align="center" style="padding:20px;">
-<img src="https://raw.githubusercontent.com/fatihnorthman/fatihnorthman/main/assets/outro.gif" alt="outro" width="200" style="border-radius:12px;"/>
-</td>
-</tr>
-
 </table>
+
+<!-- GitHub Stats -->
+
+<h2 align="center">📊 Activity Graph</h2>
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dfatihnorthman%26bg_color%3D1a1b27%26color%3Def233c%26line%3Def233c%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" width="100%" />
+</div>
+
+<div align="center">
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfatihnorthman%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dfatihnorthman%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" width="48%" />
+</div>
+
+<!-- Footer -->
