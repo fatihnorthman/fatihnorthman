@@ -95,11 +95,7 @@ I treat every bug like a side quest and every project like a raid boss. With a s
 
 <br/>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 Activity Graph</h2>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatihnorthman&bg_color=1a1b27&color=ef233c&line=ef233c&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
+
 
 <br/>
 
