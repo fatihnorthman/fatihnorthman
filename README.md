@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b2d42,8d99ae,ef233c&height=220&section=header&text=Building%20Infrastructure...&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-<h1 align="center">🖥️ root@fatih:~# whoami</h1>
+<h1 align="center">🖥️ root@northman:~# whoami</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
