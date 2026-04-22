@@ -1,94 +1,165 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=000000,00FFCC,7028E4&height=220&section=header&text=System%20Initialization...&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Establishing%20Secure%20Connection&descAlignY=55&descAlign=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=root%40northman&fontSize=62&fontColor=00FFCC&animation=fadeIn&fontAlignY=38&desc=System+Administrator+%7C+Infrastructure+Architect+%7C+Automation+Enthusiast&descAlignY=58&descAlign=50&descSize=16&descColor=aaaaaa" width="100%"/>
 </div>
 
-<h1 align="center"><code>root@northman:~# whoami</code></h1>
+<br/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00FFCC&size=20&center=true&vCenter=true&width=600&lines=System+Administrator;Infrastructure+Architect;Cybersecurity+Enthusiast;Automating+Everything;Uptime+Is+A+Lifestyle" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Fatih+Sahan;%24+uptime+%E2%86%92+Continuously+Learning...;%24+cat+%2Fetc%2Fmotd+%E2%86%92+If+it+runs+twice%2C+automate+it.;%24+ping+goals+-c1+%E2%86%92+99.999%25+uptime+achieved.;%24+systemctl+status+sysadmin+%E2%86%92+active+%28running%29" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatihsahan"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn"></a>&nbsp;
-  <a href="https://instagram.com/fatih.northman"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00FFCC" alt="Instagram"></a>&nbsp;
-  <a href="mailto:sahanfatih2798@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFCC" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/fatihsahan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=00FFCC" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/fatih.northman">
+    <img src="https://img.shields.io/badge/Instagram-0A0E1A?style=for-the-badge&logo=instagram&logoColor=00FFCC" />
+  </a>
+  &nbsp;
+  <a href="mailto:sahanfatih2798@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A0E1A?style=for-the-badge&logo=gmail&logoColor=00FFCC" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=fatihnorthman&color=00FFCC&style=for-the-badge&label=ACTIVE+CONNECTIONS" />
 </p>
 
 ---
 
-<table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
+## `$ cat /etc/profile`
+
+```bash
+NAME       : Fatih Sahan
+HANDLE     : northman
+ROLE       : System Administrator & Infrastructure Architect
+STATUS     : [■■■■■■■■░░] 80% — Leveling Up
+FOCUS      : Enterprise Infrastructure · Automation · Cybersecurity
+DIRECTIVE  : "Automate everything. Document everything. Break nothing in prod."
+```
+
+I'm an IT professional building expertise from the ground up — bare-metal servers to enterprise-grade architectures. Every network packet is a puzzle, every outage a mission. I design environments that are **highly available**, **security-conscious**, and **ruthlessly automated**.
+
+---
+
+## `$ ls -la ~/skills/`
+
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="33%" valign="top">
 
-### 🛡️ System Logs & Status
+### 🖥️ Core Systems
 
-> **`[STATUS: ONLINE]` System Administrator & Infrastructure Architect**
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 
-I'm a passionate IT professional focused on building, securing, and maintaining rock-solid infrastructure. My quest is to master the art of systems administration, from bare-metal servers and networks to advanced automation and architecture.
+<br/><br/>
 
-<br/>
+### ⚙️ Automation & Config Mgmt
 
-#### 🚀 The Journey
-I treat every network latency like a puzzle and every server outage like a critical mission. With a strong focus on enterprise environments, I design systems that are highly available, secure, and easily manageable. 
-
-<br/>
-
-#### ⚡ Active Daemons
-- 🔭 **Executing:** Enterprise-grade Home Lab, Active Directory architectures, and system hardening.
-- 🌱 **Loading Modules:** Advanced Networking, Cybersecurity concepts, and Automation.
-- 🎯 **Target:** Achieving 99.999% uptime and transforming manual tasks into seamless scripts.
-- 🧩 **Directive:** *"If you have to do it more than twice, automate it."*
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 </td>
+<td width="33%" valign="top">
 
-<td width="40%" valign="top">
+### 🌐 Network & Identity
 
-### 🛠️ Hardware & Protocols
+<img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/DNS_%26_DHCP-CC2200?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/TCP--IP_Networking-04769E?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=openssh&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white" />
+<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=00FFCC" />
 
-<div align="center">
+<br/><br/>
 
-**🖥️ Core OS & Systems**<br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/CachyOS-0078D6?style=for-the-badge&logo=arch-linux&logoColor=white" /><br/><br/>
+### 📦 Virtualization & Containers
 
-**⚙️ Automation & Scripting**<br/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 
-**🌐 Network & Identity**<br/>
-<img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Networking-04769E?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/DNS_&_DHCP-CC2200?style=for-the-badge&logo=cloudflare&logoColor=white" /><br/><br/>
+</td>
+<td width="33%" valign="top">
 
-**📦 Virtualization**<br/>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+### 📊 Monitoring & Observability
 
-</div>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=black" />
+
+<br/><br/>
+
+### 🔒 Security & Web
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Fail2ban-CC0000?style=flat-square&logo=linux&logoColor=white" />
+
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## `$ systemctl status current-objectives`
+
+```
+● homelab.service          — Enterprise-Grade Home Lab Environment
+   Active: active (running) since boot
+
+● active-directory.service — AD DS Architecture & Group Policy Design
+   Active: active (running) — multi-domain lab in progress
+
+● hardening.service        — System & Network Security Hardening
+   Active: active (running) — CIS Benchmarks being applied
+
+● automation.service       — Scripted Infrastructure Management
+   Active: active (running) — Bash & PowerShell pipelines
+
+● networking.service       — Advanced Networking & Protocol Study
+   Active: activating (loading) — CCNA-level concepts in queue
+```
+
+---
+
+## `$ cat /var/log/github-stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihnorthman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFCC&icon_color=00FFCC&text_color=ffffff" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fatihnorthman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=c9d1d9&ring_color=00FFCC" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihnorthman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatihnorthman&bg_color=0D1117&color=00FFCC&line=00FFCC&point=ffffff&area=true&hide_border=true" width="95%"/>
+
 </div>
 
-<br/>
+---
+
+## `$ tail -1 /etc/motd`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=7028E4,00FFCC,000000&height=120&section=footer" width="100%"/>
-<p align="center">
-<i>"The best server is the one you never have to SSH into."</i>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=fatihnorthman&color=00FFCC&style=flat-square&label=Active+Connections" alt="Profile views"/>
-</p>
+
+> *"The measure of a sysadmin is not how fast they fix problems —*
+> *it's how many problems they prevented before anyone noticed."*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=130&section=footer&text=Keep+the+servers+alive.&fontSize=18&fontColor=00FFCC&fontAlignY=65" width="100%"/>
 </div>
