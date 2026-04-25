@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-0A0E1A?style=for-the-badge&logo=gmail&logoColor=00FFCC" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=fatihnorthman&color=00000&style=for-the-badge&label=ACTIVE+CONNECTIONS" />
+  <img src="https://komarev.com/ghpvc/?username=fatihnorthman&color=000000&style=for-the-badge&label=ACTIVE+CONNECTIONS" alt="Active Connections" />
 </p>
 
 ---
